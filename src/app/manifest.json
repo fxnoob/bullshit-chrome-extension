@@ -4,8 +4,8 @@
   "manifest_version": 2,
   "description": "Bullshit the marketing speech",
   "icons": {
-    "16": "images/icon-16.png",
-    "128": "images/icon-128.png"
+    "16": "images/16x16.png",
+    "128": "images/128x128.png"
   },
   "default_locale": "en",
   "background": {
@@ -14,8 +14,8 @@
   "permissions": ["history", "webNavigation", "*://*/*"],
   "browser_action": {
     "default_icon": {
-      "19": "images/icon-19.png",
-      "38": "images/icon-38.png"
+      "16": "images/16x16.png",
+      "38": "images/128x128.png"
     },
     "default_title": "Bullshit the marketing speech"
   },

@@ -1,8 +1,8 @@
 {
-  "name": "Swipe hand in the air",
+  "name": "Bullshit",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "swipe hand gesture recognition",
+  "description": "Bullshit the marketing speech",
   "icons": {
     "16": "images/icon-16.png",
     "128": "images/icon-128.png"
@@ -17,8 +17,7 @@
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "history remover",
-    "default_popup": "popup.html"
+    "default_title": "Bullshit the marketing speech"
   },
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }

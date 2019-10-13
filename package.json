@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-boilerplate",
+  "name": "bullshit-chromep-extension",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -39,6 +39,7 @@
     "@babel/runtime": "^7.5.5",
     "@material-ui/core": "^4.3.3",
     "@material-ui/icons": "^4.2.1",
+    "@mourner/bullshit": "^1.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }

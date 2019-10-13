@@ -3,10 +3,9 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 module.exports = {
   entry: {
-    content_script: "./content-scripts/App.jsx",
     background: "./src/background.js",
-    popup: "./popup-page/App.jsx",
-    option: "./option-page/App.jsx"
+    bullshit:"./src/bullshit.js",
+    popup: "./popup-page/App.jsx"
   },
   module: {
     rules: [
@@ -42,7 +41,6 @@ module.exports = {
     new CopyWebpackPlugin(
       [
         { from: "./popup-page/popup.html", force: true },
-        { from: "./option-page/option.html", force: true },
         { from: "./src/app/", force: true }
       ],
       {}

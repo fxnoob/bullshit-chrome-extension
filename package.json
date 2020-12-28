@@ -31,7 +31,7 @@
     "prettier": "1.18.2",
     "react-hot-loader": "^4.12.10",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^4.3.0",
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
